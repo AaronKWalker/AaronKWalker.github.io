@@ -1,0 +1,19 @@
+body {
+  background-image: url(../images/black3.jpg);
+  background-size: cover;
+}
+
+.whiteText {
+  color: white;
+}
+
+#bio-image {
+  border: 1px solid white;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
